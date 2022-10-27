@@ -1,0 +1,54 @@
+*{
+    font-family: 'Calibri';
+    font-size: 20px;
+}
+
+body, html{
+    width: auto;
+    color: rgb(194, 182, 182);
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 10px 20px 10px 0;
+    padding: 0 0 0 10px;
+    background-color: rgb(59, 0, 45);
+    box-shadow: 15px 20px 10px 10px #000;
+}
+
+.header{
+    background-color: rgb(78, 8, 41);
+    margin: 10px 5px 0 0;
+    padding: 0 0 10px 0;
+    box-shadow: 0 5px 5px 5px rgb(100, 4, 95);
+}
+
+.menu{
+    box-shadow: 5px 5px 5px 5px #000;
+    margin: 0 1500px 20px 10px;
+    padding: 0 0 2px 0;
+}
+
+.routine{
+    margin: 10px 5px 0 0;;
+    box-shadow: 0 10px 10px 2px rgb(60, 0, 78);
+    
+}
+
+.howToEat{
+    box-shadow: 0 10px 10px 2px rgb(60, 0, 78);
+}
+
+.preferences{
+    margin: 0 0 100px 0;
+    padding-bottom: 5px;
+    background-color: rgb(36, 5, 65);
+    color: gold;
+}
+
+.footer{
+    margin-left: -10px;
+    text-align: center;
+    background-color: rgb(67, 10, 121);
+}
